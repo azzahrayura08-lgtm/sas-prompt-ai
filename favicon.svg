@@ -1,0 +1,26 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rose-gold-fav" x1="10" y1="10" x2="110" y2="110" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FAF7F2" />
+      <stop offset="25%" stop-color="#F5D0C5" />
+      <stop offset="50%" stop-color="#E5AA9C" />
+      <stop offset="75%" stop-color="#C98B94" />
+      <stop offset="100%" stop-color="#9A5A65" />
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="28" fill="#0C0C10" />
+  <rect x="2" y="2" width="116" height="116" rx="26" stroke="#E5AA9C" stroke-opacity="0.3" stroke-width="2" />
+  <circle cx="60" cy="60" r="48" stroke="url(#rose-gold-fav)" stroke-width="1.2" stroke-opacity="0.35" stroke-dasharray="4 2" />
+  <!-- Central Spire Arch of 'A' -->
+  <path d="M60 22 L36 88 H44 L51 68 H69 L76 88 H84 L60 22 Z M53.5 61 L60 41 L66.5 61 H53.5 Z" fill="url(#rose-gold-fav)" />
+  <path d="M49 61.5 H71" stroke="#FAF7F2" stroke-width="1.2" stroke-linecap="round" />
+  <!-- Left 'S' -->
+  <path d="M48 38 C44 32, 34 30, 27 34 C20 38, 20 46, 26 50 C32 54, 46 56, 46 65 C46 74, 37 78, 28 77 C22 76, 17 72, 16 68" fill="none" stroke="url(#rose-gold-fav)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Right 'S' -->
+  <path d="M72 38 C76 32, 86 30, 93 34 C100 38, 100 46, 94 50 C88 54, 74 56, 74 65 C74 74, 83 78, 92 77 C98 76, 103 72, 104 68" fill="none" stroke="url(#rose-gold-fav)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Interlocking Link Rings -->
+  <circle cx="43.5" cy="52" r="2" fill="#FAF7F2" />
+  <circle cx="76.5" cy="52" r="2" fill="#FAF7F2" />
+  <!-- Crown Star -->
+  <path d="M60 12 L61.5 17.5 L67 19 L61.5 20.5 L60 26 L58.5 20.5 L53 19 L58.5 17.5 Z" fill="#FAF7F2" />
+</svg>
